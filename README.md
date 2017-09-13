@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # uxuan-admin-front-new
 
 > 优选管家后台管理新的系统
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# uxuan-admin-front-new
+u选管家新的erp系统
+>>>>>>> origin/master
